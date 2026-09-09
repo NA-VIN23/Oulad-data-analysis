@@ -1,0 +1,6 @@
+{
+  "name": "OULAD Analytics Web App",
+  "description": "A web application to clean, visualize, classify, and recommend actions based on the Open University Learning Analytics Dataset (OULAD). It features data processing, exploratory data analysis, predictive modeling, and student clustering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
